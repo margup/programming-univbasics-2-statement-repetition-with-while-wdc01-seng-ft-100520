@@ -4,4 +4,6 @@ while count >= 1 do
   puts "#{count}"
   count -= 1 
   if count = 1 
-    puts 
+    puts "Happy New Year!"
+  end
+end
